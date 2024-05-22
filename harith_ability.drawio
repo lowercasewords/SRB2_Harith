@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T05:07:11.233Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.4.4" etag="8TaazlmzJPVJ_ysh_FfB" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T23:37:09.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="EOvSsg_7xlcH_J149wMz" version="24.4.4" type="github">
   <diagram name="Page-1" id="LRSRX0bhk1AfPLoSpWNG">
-    <mxGraphModel>
+    <mxGraphModel dx="1012" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-1" value="Chrono Dash" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-2" value="Horizontal boost with shield. Slowdown is at the end with the projectile launch " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sNmxxU3-tLWQ9-c_K92_-1">
+          <mxGeometry y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-3" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sNmxxU3-tLWQ9-c_K92_-1">
+          <mxGeometry y="100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-4" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sNmxxU3-tLWQ9-c_K92_-1">
+          <mxGeometry y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-6" value="Zanith Key" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-7" value="Summon of forward object on the ground that allows for quick dashes with no cooldown" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sNmxxU3-tLWQ9-c_K92_-6">
+          <mxGeometry y="30" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-8" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sNmxxU3-tLWQ9-c_K92_-6">
+          <mxGeometry y="140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-9" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sNmxxU3-tLWQ9-c_K92_-6">
+          <mxGeometry y="170" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-10" value="Chrono Dash" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-11" value="Horizontal boost with slowdown at the end with the projectile launch " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sNmxxU3-tLWQ9-c_K92_-10">
+          <mxGeometry y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-12" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sNmxxU3-tLWQ9-c_K92_-10">
+          <mxGeometry y="100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sNmxxU3-tLWQ9-c_K92_-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sNmxxU3-tLWQ9-c_K92_-10">
+          <mxGeometry y="130" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
